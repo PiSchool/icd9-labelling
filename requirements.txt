@@ -1,0 +1,13 @@
+tensorflow-gpu==1.9.0
+tensorboard==1.9.0
+
+
+
+pandas
+numpy
+progressbar2
+sklearn
+nltk
+scikit-optimize
+ftfy
+matplotlib
